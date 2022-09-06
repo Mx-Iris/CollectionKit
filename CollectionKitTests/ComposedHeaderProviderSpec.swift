@@ -9,6 +9,7 @@
 @testable import CollectionKit
 import Quick
 import Nimble
+import UIKit
 
 class ComposedHeaderProviderSpec: QuickSpec {
 

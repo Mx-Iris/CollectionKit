@@ -9,7 +9,7 @@
 @testable import CollectionKit
 import Quick
 import Nimble
-
+import UIKit
 
 class BasicProviderSpec: QuickSpec {
 

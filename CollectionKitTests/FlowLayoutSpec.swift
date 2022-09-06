@@ -9,6 +9,7 @@
 import CollectionKit
 import Quick
 import Nimble
+import CoreGraphics
 
 class FlowLayoutSpec: QuickSpec {
 
